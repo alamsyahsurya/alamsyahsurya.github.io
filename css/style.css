@@ -1,0 +1,38 @@
+.jumbotron img{
+	width: 25%;
+}
+footer{
+	min-height: 50px;
+	padding-top: 15px;
+}
+body{
+	margin-top: 50px;
+}
+
+.navbar-judul:link,
+.navbar-judul:active,
+.navbar-judul:visited{
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+}
+.jumbotron-fluid{
+	background-image: url('../img/sampul.png');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 0-100px;
+}
+.display-4{
+	font-weight: bold;
+}
+.display-4,
+.lead{
+	color: #EAEAEA;
+	text-shadow: 1px 1px 10px rgb(0, 0, 0, 0.5);
+}
+
+.progress p {
+	padding-left: 30px;
+	padding-right: 30px;
+	position: relative;
+}
